@@ -1,2 +1,2 @@
-# night-vault
+# Night Vault
 Backup software
