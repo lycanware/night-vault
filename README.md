@@ -11,7 +11,7 @@ Coming Soon
 ```
 
 ## Author
-Craig Sherlock [@nightofcode](https://twitter.com/nightofcode)
+Craig Sherlock
 
 ## License
 night-vault is licensed under the GNU General Public License v2.0. See the LICENSE file for more info.
